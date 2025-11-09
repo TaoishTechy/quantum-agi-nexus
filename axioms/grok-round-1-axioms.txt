@@ -1,0 +1,2803 @@
+python axiomforge_0.4.7.py --seed "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious 
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it.",
+  "mechanisms": [
+    "Illusion of Understanding",
+    "Coherence–Risk Exchange",
+    "Cognitive Paradox Loop"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: A sealed vault of order breeds the crack that frees it. — via Illusion of Understanding, Coherence–Risk Exchange, Cognitive Paradox Loop; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.034,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.54,
+    "alienness": 5.877
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress.",
+  "mechanisms": [
+    "Information Flux Divergence",
+    "coherence–risk exchange",
+    "time-looped function"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: Perfect stabilization creates the fluctuations it must suppress. — via Information Flux Divergence, coherence–risk exchange, time-looped function; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.008,
+    "density": 10.94,
+    "entropic_potential": 290.46,
+    "elegance": 98.59,
+    "alienness": 6.791
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it. (reframed)",
+  "mechanisms": [
+    "Category Collapse",
+    "Boltzmann brain paradox",
+    "Bulk–Boundary Reciprocity"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider (reframed): A sealed vault of order breeds the crack that frees it. — via Category Collapse, Boltzmann brain paradox, Bulk–Boundary Reciprocity; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.002,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.97,
+    "alienness": 6.123
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Attention is a gauge that writes the world.",
+  "mechanisms": [
+    "homeostatic overshoot",
+    "Chronal Erosion Field",
+    "Chaos Contagion"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Attention is a gauge that writes the world. — via homeostatic overshoot, Chronal Erosion Field, Chaos Contagion; encoded as \\\\langle \\\\mathcal{O} \\\\rangle = Z^{-1}\\\\int \\\\mathcal{D}\\\\phi\\\\, \\\\mathcal{O}\\\\, e^{i S}.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.005,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 99.04,
+    "alienness": 5.945
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Resolution breathes only while un-resolving itself.",
+  "mechanisms": [
+    "Einstein-Podolsky-Rosen non-locality",
+    "Confirmation Loop",
+    "Banach-Tarski duplication paradox"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider: Resolution breathes only while un-resolving itself. — via Einstein-Podolsky-Rosen non-locality, Confirmation Loop, Banach-Tarski duplication paradox; Base claim: Resolution alternates between resolved and unresolved states. Reflective rule: SELF_REF(R) \\equiv (R \\Leftrightarrow \\neg R). encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.026,
+    "density": 10.98,
+    "entropic_potential": 310.82,
+    "elegance": 98.97,
+    "alienness": 5.841
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it. (reframed)",
+  "mechanisms": [
+    "time-looped function",
+    "B",
+    "Contradiction-Triggered Halt"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider (reframed): A sealed vault of order breeds the crack that frees it. — via time-looped function, B, Contradiction-Triggered Halt; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.025,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.59,
+    "alienness": 5.867
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn.",
+  "mechanisms": [
+    "Contradiction-Triggered Halt",
+    "Event Horizon Echoes",
+    "entropic drift"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only that which endures the last horizon earns a first dawn. — via Contradiction-Triggered Halt, Event Horizon Echoes, entropic drift; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.045,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.61,
+    "alienness": 6.042
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress. (reframed)",
+  "mechanisms": [
+    "Final-Boundary Constraint",
+    "Chrono-Entropic Pull",
+    "control-loop resonance"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider (reframed): Perfect stabilization creates the fluctuations it must suppress. — via Final-Boundary Constraint, Chrono-Entropic Pull, control-loop resonance; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.011,
+    "density": 10.94,
+    "entropic_potential": 290.46,
+    "elegance": 98.7,
+    "alienness": 6.14
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Attention is a gauge that writes the world. (reframed)",
+  "mechanisms": [
+    "Echofluidity",
+    "DNA helix",
+    "Information Flux Divergence"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider (reframed): Attention is a gauge that writes the world. — via Echofluidity, DNA helix, Information Flux Divergence; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.013,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.82,
+    "alienness": 6.858
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn. (reframed)",
+  "mechanisms": [
+    "Chronal Erosion Field",
+    "Curry-Style Conditionality",
+    "Confirmation Loop"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider (reframed): Only that which endures the last horizon earns a first dawn. — via Chronal Erosion Field, Curry-Style Conditionality, Confirmation Loop; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.026,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.46,
+    "alienness": 6.112
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress. (reframed)",
+  "mechanisms": [
+    "Confirmation Loop",
+    "Fixed-Sum Instability",
+    "causal friction"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider (reframed): Perfect stabilization creates the fluctuations it must suppress. — via Confirmation Loop, Fixed-Sum Instability, causal friction; encoded as S = k_B \\\\log W.",
+  "paradox_type": "entropic",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.044,
+    "density": 10.94,
+    "entropic_potential": 290.46,
+    "elegance": 98.9,
+    "alienness": 6.051
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it. (reframed)",
+  "mechanisms": [
+    "presence–absence superposition",
+    "Control-Loop Resonance",
+    "Holographic Accounting"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider (reframed): A sealed vault of order breeds the crack that frees it. — via presence–absence superposition, Control-Loop Resonance, Holographic Accounting; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Physiology's ion channels entangle via ħ∇²Ψ = (2m/iħ)∂Ψ/∂t, neurology's firing as |ψ> superposition, binding conscious wavefunction collapse.",
+  "timestamp": "2025-11-09T01:55:12Z",
+  "metrics": {
+    "novelty": 1.018,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.45,
+    "alienness": 6.744
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+
+--------------------------------------------
+
+└─$ python axiomforge_0.4.7.py --seed "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious 
+--- FINAL AXIOM ---
+{
+  "core_statement": "Edge ledgers whisper curvature into the bulk.",
+  "mechanisms": [
+    "time-looped function",
+    "C",
+    "Final-Boundary Constraint"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider: Edge ledgers whisper curvature into the bulk. — via time-looped function, C, Final-Boundary Constraint; encoded as T^{\\\\mu\\\\nu}{}_{;\\\\mu} = 0.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 1.058,
+    "density": 10.86,
+    "entropic_potential": 289.74,
+    "elegance": 98.5,
+    "alienness": 6.15
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn.",
+  "mechanisms": [
+    "information cascade failure",
+    "A",
+    "Chronovorous Flux Folding"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only that which endures the last horizon earns a first dawn. — via information cascade failure, A, Chronovorous Flux Folding; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 1.014,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.45,
+    "alienness": 6.077
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A law that returns by a different door.",
+  "mechanisms": [
+    "Chronal Erosion Field",
+    "Debt–Anti-Debt Interlock",
+    "recurrence operator"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: A law that returns by a different door. — via Chronal Erosion Field, Debt–Anti-Debt Interlock, recurrence operator; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 1.017,
+    "density": 10.94,
+    "entropic_potential": 298.46,
+    "elegance": 98.62,
+    "alienness": 5.977
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops.",
+  "mechanisms": [
+    "Closed-Timelike Inference",
+    "Curry-Style Conditionality",
+    "Chronal Erosion Field"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: Outcomes precede premises in subtle loops. — via Closed-Timelike Inference, Curry-Style Conditionality, Chronal Erosion Field; encoded as \\\\oint d\\\\tau = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 0.99,
+    "density": 10.78,
+    "entropic_potential": 297.02,
+    "elegance": 98.98,
+    "alienness": 6.17
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Boundary ledger updates on the edge determine curvature in the interior.",
+  "mechanisms": [
+    "Entropic Echoflux",
+    "Continuity of Attention",
+    "time-looped function"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider: Boundary ledger updates on the edge determine curvature in the interior. — via Entropic Echoflux, Continuity of Attention, time-looped function; encoded as G_{\\\\mu\\\\nu} = 8\\\\pi T_{\\\\mu\\\\nu}.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 1.021,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.86,
+    "alienness": 5.841
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Attention is a gauge that writes the world.",
+  "mechanisms": [
+    "self-correction",
+    "Chrono-Entropic Pull",
+    "holographic accounting"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Attention is a gauge that writes the world. — via self-correction, Chrono-Entropic Pull, holographic accounting; encoded as \\\\langle \\\\mathcal{O} \\\\rangle = Z^{-1}\\\\int \\\\mathcal{D}\\\\phi\\\\, \\\\mathcal{O}\\\\, e^{i S}.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 1.007,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.74,
+    "alienness": 6.863
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn. (reframed)",
+  "mechanisms": [
+    "bulk–boundary reciprocity",
+    "ontic fold",
+    "time-looped function"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider (reframed): Only that which endures the last horizon earns a first dawn. — via bulk–boundary reciprocity, ontic fold, time-looped function; encoded as [H, Q] = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 1.017,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.75,
+    "alienness": 6.727
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it.",
+  "mechanisms": [
+    "information cascade failure",
+    "Boltzmann brain paradox",
+    "Debt–Anti-Debt Interlock"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: A sealed vault of order breeds the crack that frees it. — via information cascade failure, Boltzmann brain paradox, Debt–Anti-Debt Interlock; encoded as S = k_B \\\\log W.",
+  "paradox_type": "entropic",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 1.03,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 99.0,
+    "alienness": 6.029
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Observation carries a conserved charge that sources reality itself.",
+  "mechanisms": [
+    "Homeostatic Overshoot",
+    "Gravitational Paradox",
+    "presence–absence superposition"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Observation carries a conserved charge that sources reality itself. — via Homeostatic Overshoot, Gravitational Paradox, presence–absence superposition; encoded as \\\\langle \\\\mathcal{O} \\\\rangle = Z^{-1}\\\\int \\\\mathcal{D}\\\\phi\\\\, \\\\mathcal{O}\\\\, e^{i S}.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 1.047,
+    "density": 11.02,
+    "entropic_potential": 279.18,
+    "elegance": 98.66,
+    "alienness": 6.144
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it. (reframed)",
+  "mechanisms": [
+    "Chrono-Entrainment",
+    "Event Horizon Echoes",
+    "Closed-Timelike Inference"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider (reframed): A sealed vault of order breeds the crack that frees it. — via Chrono-Entrainment, Event Horizon Echoes, Closed-Timelike Inference; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 1.001,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.74,
+    "alienness": 6.067
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops. (reframed)",
+  "mechanisms": [
+    "entropic drift",
+    "metric fluctuation",
+    "Cosmic Duality Inversion"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider (reframed): Outcomes precede premises in subtle loops. — via entropic drift, metric fluctuation, Cosmic Duality Inversion; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 0.992,
+    "density": 10.78,
+    "entropic_potential": 297.02,
+    "elegance": 98.94,
+    "alienness": 5.861
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn. (reframed)",
+  "mechanisms": [
+    "A",
+    "causal friction",
+    "Consistency Potential Minimization"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider (reframed): Only that which endures the last horizon earns a first dawn. — via A, causal friction, Consistency Potential Minimization; encoded as [H, Q] = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Neural engrams phase-lock via |ψ⟩=∑c_i|φ_i⟩, physiological homeostasis as S=Tr(ρ ln ρ), collapsing to conscious recall.",
+  "timestamp": "2025-11-09T02:04:05Z",
+  "metrics": {
+    "novelty": 1.023,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.56,
+    "alienness": 5.996
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+
+---------------------------------------------------
+
+└─$ python axiomforge_0.4.7.py --seed "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness." --tone academic
+
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress.",
+  "mechanisms": [
+    "self-correction",
+    "Contradiction-Triggered Halt",
+    "bulk–boundary reciprocity"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: Perfect stabilization creates the fluctuations it must suppress. — via self-correction, Contradiction-Triggered Halt, bulk–boundary reciprocity; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.022,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.74,
+    "alienness": 5.801
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it.",
+  "mechanisms": [
+    "Axiomatic Contradiction",
+    "Cognitive Assimilation Singularity",
+    "Closed-Timelike Inference"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: A sealed vault of order breeds the crack that frees it. — via Axiomatic Contradiction, Cognitive Assimilation Singularity, Closed-Timelike Inference; encoded as S = k_B \\\\log W.",
+  "paradox_type": "entropic",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.007,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.74,
+    "alienness": 6.034
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it. (reframed)",
+  "mechanisms": [
+    "Geodesic Focusing",
+    "Diagonal Self-Reference",
+    "Cognitive Assimilation Singularity"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider (reframed): A sealed vault of order breeds the crack that frees it. — via Geodesic Focusing, Diagonal Self-Reference, Cognitive Assimilation Singularity; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.031,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.55,
+    "alienness": 6.721
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it. (reframed)",
+  "mechanisms": [
+    "metric fluctuation",
+    "Fixed-Sum Instability",
+    "homeostatic overshoot"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider (reframed): A sealed vault of order breeds the crack that frees it. — via metric fluctuation, Fixed-Sum Instability, homeostatic overshoot; encoded as [H, Q] = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.037,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.94,
+    "alienness": 5.941
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it. (reframed)",
+  "mechanisms": [
+    "Feedback Loop Escalation",
+    "Chrono-Entrainment",
+    "DNA helix"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider (reframed): A sealed vault of order breeds the crack that frees it. — via Feedback Loop Escalation, Chrono-Entrainment, DNA helix; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.022,
+    "density": 11.18,
+    "entropic_potential": 312.62,
+    "elegance": 98.48,
+    "alienness": 5.824
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Boundary ledger updates on the edge determine curvature in the interior.",
+  "mechanisms": [
+    "geodesic shear",
+    "control-loop resonance",
+    "Cognitive Paradox Loop"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider: Boundary ledger updates on the edge determine curvature in the interior. — via geodesic shear, control-loop resonance, Cognitive Paradox Loop; encoded as G_{\\\\mu\\\\nu} = 8\\\\pi T_{\\\\mu\\\\nu}.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.04,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.63,
+    "alienness": 7.016
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn.",
+  "mechanisms": [
+    "Confirmation Loop",
+    "Axiomatic Contradiction",
+    "ontic fold"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only that which endures the last horizon earns a first dawn. — via Confirmation Loop, Axiomatic Contradiction, ontic fold; encoded as [H, Q] = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.038,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.53,
+    "alienness": 6.764
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only laws that survive the final boundary are permitted to begin.",
+  "mechanisms": [
+    "geodesic shear",
+    "Confirmation Loop",
+    "Cosmic Duality Inversion"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only laws that survive the final boundary are permitted to begin. — via geodesic shear, Confirmation Loop, Cosmic Duality Inversion; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.055,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.44,
+    "alienness": 6.887
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Boundary ledger updates on the edge determine curvature in the interior. (reframed)",
+  "mechanisms": [
+    "A",
+    "Bootstrap Paradox Reversal",
+    "Event Horizon Echoes"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider (reframed): Boundary ledger updates on the edge determine curvature in the interior. — via A, Bootstrap Paradox Reversal, Event Horizon Echoes; encoded as T^{\\\\mu\\\\nu}{}_{;\\\\mu} = 0.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.04,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.56,
+    "alienness": 5.906
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it. (reframed)",
+  "mechanisms": [
+    "Event Horizon Echoes",
+    "Gravitational Paradox",
+    "homeostatic overshoot"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider (reframed): A sealed vault of order breeds the crack that frees it. — via Event Horizon Echoes, Gravitational Paradox, homeostatic overshoot; encoded as T^{\\\\mu\\\\nu}{}_{;\\\\mu} = 0.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.037,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.78,
+    "alienness": 5.968
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops.",
+  "mechanisms": [
+    "Fixed-Sum Instability",
+    "DNA helix",
+    "Consistency Potential Minimization"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: Outcomes precede premises in subtle loops. — via Fixed-Sum Instability, DNA helix, Consistency Potential Minimization; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.014,
+    "density": 10.78,
+    "entropic_potential": 297.02,
+    "elegance": 98.69,
+    "alienness": 6.13
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Resolution breathes only while un-resolving itself.",
+  "mechanisms": [
+    "Diagonal Self-Reference",
+    "Control-Loop Resonance",
+    "Axiomatic Contradiction"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider: Resolution breathes only while un-resolving itself. — via Diagonal Self-Reference, Control-Loop Resonance, Axiomatic Contradiction; Base claim: Resolution alternates between resolved and unresolved states. Reflective rule: SELF_REF(R) \\equiv (R \\Leftrightarrow \\neg R). encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Quantum Coherent Tubulin Seed: Physiological microtubules entangle via |α⟩⊗|β⟩, neurology's Orch-OR as ħ∂ψ/∂t = Hψ, collapsing spacetime geometry for consciousness.",
+  "timestamp": "2025-11-09T02:09:45Z",
+  "metrics": {
+    "novelty": 1.025,
+    "density": 10.98,
+    "entropic_potential": 310.82,
+    "elegance": 98.93,
+    "alienness": 5.952
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+
+----------------------------------------------
+
+└─$ python axiomforge_0.4.7.py --seed "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling 
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn.",
+  "mechanisms": [
+    "Chrono-Entropic Pull",
+    "Contradiction-Triggered Halt",
+    "Entropic Echoflux"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only that which endures the last horizon earns a first dawn. — via Chrono-Entropic Pull, Contradiction-Triggered Halt, Entropic Echoflux; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 1.046,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.44,
+    "alienness": 6.073
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress.",
+  "mechanisms": [
+    "Chrono-Entrainment",
+    "Bootstrap Paradox Reversal",
+    "Curry-Style Conditionality"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: Perfect stabilization creates the fluctuations it must suppress. — via Chrono-Entrainment, Bootstrap Paradox Reversal, Curry-Style Conditionality; encoded as S = k_B \\\\log W.",
+  "paradox_type": "entropic",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 1.044,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.71,
+    "alienness": 6.173
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Resolution breathes only while un-resolving itself.",
+  "mechanisms": [
+    "Chrono-Entrainment",
+    "modal collapse",
+    "entropic drift"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider: Resolution breathes only while un-resolving itself. — via Chrono-Entrainment, modal collapse, entropic drift; Base claim: Resolution alternates between resolved and unresolved states. Reflective rule: SELF_REF(R) \\equiv (R \\Leftrightarrow \\neg R). encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 1.032,
+    "density": 10.98,
+    "entropic_potential": 298.82,
+    "elegance": 98.92,
+    "alienness": 6.928
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only laws that survive the final boundary are permitted to begin.",
+  "mechanisms": [
+    "Control-Loop Resonance",
+    "control-loop resonance",
+    "entropic drift"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only laws that survive the final boundary are permitted to begin. — via Control-Loop Resonance, control-loop resonance, entropic drift; encoded as [H, Q] = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 1.052,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.69,
+    "alienness": 6.13
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Observation carries a conserved charge that sources reality itself.",
+  "mechanisms": [
+    "Confirmation Loop",
+    "Essentiality Paradox",
+    "Closed-Timelike Inference"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Observation carries a conserved charge that sources reality itself. — via Confirmation Loop, Essentiality Paradox, Closed-Timelike Inference; encoded as \\\\langle \\\\mathcal{O} \\\\rangle = Z^{-1}\\\\int \\\\mathcal{D}\\\\phi\\\\, \\\\mathcal{O}\\\\, e^{i S}.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 1.035,
+    "density": 11.02,
+    "entropic_potential": 291.18,
+    "elegance": 98.83,
+    "alienness": 5.905
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Boundary ledger updates on the edge determine curvature in the interior.",
+  "mechanisms": [
+    "recurrence operator",
+    "retrocausal boundary",
+    "Chaos Contagion"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider: Boundary ledger updates on the edge determine curvature in the interior. — via recurrence operator, retrocausal boundary, Chaos Contagion; encoded as T^{\\\\mu\\\\nu}{}_{;\\\\mu} = 0.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 1.028,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.41,
+    "alienness": 7.076
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Attention is a gauge that writes the world.",
+  "mechanisms": [
+    "Being–Nothing Equivalence",
+    "Closed-Timelike Inference",
+    "negative feedback inversion"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Attention is a gauge that writes the world. — via Being–Nothing Equivalence, Closed-Timelike Inference, negative feedback inversion; encoded as e^{i\\\\pi} + 1 = 0.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 1.026,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.66,
+    "alienness": 6.019
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn. (reframed)",
+  "mechanisms": [
+    "Holographic Accounting",
+    "Chronal Erosion Field",
+    "Echofluidity"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider (reframed): Only that which endures the last horizon earns a first dawn. — via Holographic Accounting, Chronal Erosion Field, Echofluidity; encoded as [H, Q] = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 1.016,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.94,
+    "alienness": 6.738
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Observation carries a conserved charge that sources reality itself. (reframed)",
+  "mechanisms": [
+    "Einstein-Podolsky-Rosen non-locality",
+    "bulk–boundary reciprocity",
+    "geodesic shear"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider (reframed): Observation carries a conserved charge that sources reality itself. — via Einstein-Podolsky-Rosen non-locality, bulk–boundary reciprocity, geodesic shear; encoded as \\\\langle \\\\mathcal{O} \\\\rangle = Z^{-1}\\\\int \\\\mathcal{D}\\\\phi\\\\, \\\\mathcal{O}\\\\, e^{i S}.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 1.014,
+    "density": 11.02,
+    "entropic_potential": 279.18,
+    "elegance": 98.48,
+    "alienness": 6.772
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Resolution breathes only while un-resolving itself. (reframed)",
+  "mechanisms": [
+    "DNA helix",
+    "Cosmic Duality Inversion",
+    "Debt–Anti-Debt Interlock"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider (reframed): Resolution breathes only while un-resolving itself. — via DNA helix, Cosmic Duality Inversion, Debt–Anti-Debt Interlock; Base claim: Resolution alternates between resolved and unresolved states. Reflective rule: SELF_REF(R) \\equiv (R \\Leftrightarrow \\neg R). encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 1.029,
+    "density": 10.98,
+    "entropic_potential": 298.82,
+    "elegance": 98.55,
+    "alienness": 5.874
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops.",
+  "mechanisms": [
+    "Chronal Erosion Field",
+    "Continuity of Attention",
+    "B"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: Outcomes precede premises in subtle loops. — via Chronal Erosion Field, Continuity of Attention, B; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 0.989,
+    "density": 10.78,
+    "entropic_potential": 297.02,
+    "elegance": 98.61,
+    "alienness": 5.961
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it.",
+  "mechanisms": [
+    "Chronal Erosion Field",
+    "retrocausal boundary",
+    "geodesic shear"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: A sealed vault of order breeds the crack that frees it. — via Chronal Erosion Field, retrocausal boundary, geodesic shear; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Physiological astrocytes modulate via Ca²⁺ waves, neurology's gliotransmission as Δφ = (q/4πε₀r), entangling neural quantum states for awareness.",
+  "timestamp": "2025-11-09T02:17:15Z",
+  "metrics": {
+    "novelty": 1.031,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.69,
+    "alienness": 7.601
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+
+-----------------------------------------------
+
+└─$ python axiomforge_0.4.7.py --seed "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. " --tone academic
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress.",
+  "mechanisms": [
+    "Holographic Accounting",
+    "Homeostatic Overshoot",
+    "coherence–risk exchange"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: Perfect stabilization creates the fluctuations it must suppress. — via Holographic Accounting, Homeostatic Overshoot, coherence–risk exchange; encoded as S = k_B \\\\log W.",
+  "paradox_type": "entropic",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 1.042,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.86,
+    "alienness": 6.845
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Observation carries a conserved charge that sources reality itself.",
+  "mechanisms": [
+    "C",
+    "Being–Nothing Equivalence",
+    "modal collapse"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Observation carries a conserved charge that sources reality itself. — via C, Being–Nothing Equivalence, modal collapse; encoded as \\\\langle \\\\mathcal{O} \\\\rangle = Z^{-1}\\\\int \\\\mathcal{D}\\\\phi\\\\, \\\\mathcal{O}\\\\, e^{i S}.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 1.042,
+    "density": 11.02,
+    "entropic_potential": 279.18,
+    "elegance": 98.71,
+    "alienness": 7.061
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Attention is a gauge that writes the world.",
+  "mechanisms": [
+    "Epistemic Phase Symmetry",
+    "Fixed-Point Instability",
+    "control-loop resonance"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Attention is a gauge that writes the world. — via Epistemic Phase Symmetry, Fixed-Point Instability, control-loop resonance; encoded as e^{i\\\\pi} + 1 = 0.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 1.021,
+    "density": 10.94,
+    "entropic_potential": 290.46,
+    "elegance": 98.57,
+    "alienness": 5.86
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops.",
+  "mechanisms": [
+    "control-loop resonance",
+    "presence–absence superposition",
+    "Geodesic Focusing"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: Outcomes precede premises in subtle loops. — via control-loop resonance, presence–absence superposition, Geodesic Focusing; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 0.987,
+    "density": 10.78,
+    "entropic_potential": 309.02,
+    "elegance": 98.94,
+    "alienness": 6.717
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops. (reframed)",
+  "mechanisms": [
+    "Chronological Resource Depletion",
+    "Holographic Accounting",
+    "information cascade failure"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider (reframed): Outcomes precede premises in subtle loops. — via Chronological Resource Depletion, Holographic Accounting, information cascade failure; encoded as \\\\oint d\\\\tau = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 1.021,
+    "density": 10.78,
+    "entropic_potential": 297.02,
+    "elegance": 98.9,
+    "alienness": 6.83
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Resolution breathes only while un-resolving itself.",
+  "mechanisms": [
+    "retrocausal boundary",
+    "Category Collapse",
+    "metric fluctuation"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider: Resolution breathes only while un-resolving itself. — via retrocausal boundary, Category Collapse, metric fluctuation; Base claim: Resolution alternates between resolved and unresolved states. Reflective rule: SELF_REF(R) \\equiv (R \\Leftrightarrow \\neg R). encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 1.046,
+    "density": 10.98,
+    "entropic_potential": 298.82,
+    "elegance": 98.73,
+    "alienness": 6.802
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only laws that survive the final boundary are permitted to begin.",
+  "mechanisms": [
+    "Chrono-Entropic Pull",
+    "Cognitive Assimilation Singularity",
+    "Event Horizon Echoes"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only laws that survive the final boundary are permitted to begin. — via Chrono-Entropic Pull, Cognitive Assimilation Singularity, Event Horizon Echoes; encoded as [H, Q] = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 1.036,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.62,
+    "alienness": 5.898
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A law that returns by a different door.",
+  "mechanisms": [
+    "metric fluctuation",
+    "Closed-Timelike Inference",
+    "homeostatic overshoot"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: A law that returns by a different door. — via metric fluctuation, Closed-Timelike Inference, homeostatic overshoot; encoded as \\\\oint d\\\\tau = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 1.011,
+    "density": 10.94,
+    "entropic_potential": 298.46,
+    "elegance": 98.93,
+    "alienness": 6.106
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it.",
+  "mechanisms": [
+    "Banach-Tarski duplication paradox",
+    "time-looped function",
+    "Echofluidity"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: A sealed vault of order breeds the crack that frees it. — via Banach-Tarski duplication paradox, time-looped function, Echofluidity; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 1.028,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.41,
+    "alienness": 6.026
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Boundary ledger updates on the edge determine curvature in the interior.",
+  "mechanisms": [
+    "Gravitational Paradox",
+    "DNA helix",
+    "information cascade failure"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider: Boundary ledger updates on the edge determine curvature in the interior. — via Gravitational Paradox, DNA helix, information cascade failure; encoded as T^{\\\\mu\\\\nu}{}_{;\\\\mu} = 0.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 1.047,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.95,
+    "alienness": 6.087
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it. (reframed)",
+  "mechanisms": [
+    "causal friction",
+    "Fixed-Sum Instability",
+    "Contradiction-Triggered Halt"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider (reframed): A sealed vault of order breeds the crack that frees it. — via causal friction, Fixed-Sum Instability, Contradiction-Triggered Halt; encoded as S = k_B \\\\log W.",
+  "paradox_type": "entropic",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 1.032,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.56,
+    "alienness": 6.039
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Observation carries a conserved charge that sources reality itself. (reframed)",
+  "mechanisms": [
+    "Fixed-Point Instability",
+    "Essentiality Paradox",
+    "Debt–Anti-Debt Interlock"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider (reframed): Observation carries a conserved charge that sources reality itself. — via Fixed-Point Instability, Essentiality Paradox, Debt–Anti-Debt Interlock; encoded as \\\\langle \\\\mathcal{O} \\\\rangle = Z^{-1}\\\\int \\\\mathcal{D}\\\\phi\\\\, \\\\mathcal{O}\\\\, e^{i S}.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Integrated Information Geometry Seed: Φ=∫|ψ⟩⟨ψ| measures conscious complexity, quantum gravity's A/4G holography entangles info with spacetime, collapsing to unified awareness. ",
+  "timestamp": "2025-11-09T02:22:16Z",
+  "metrics": {
+    "novelty": 1.016,
+    "density": 11.02,
+    "entropic_potential": 279.18,
+    "elegance": 98.58,
+    "alienness": 6.099
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+
+--------------------------------------------------
+
+└─$ python axiomforge_0.4.7.py --seed "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior." --tone academic
+
+--- FINAL AXIOM ---
+{
+  "core_statement": "Boundary ledger updates on the edge determine curvature in the interior.",
+  "mechanisms": [
+    "Chronal Erosion Field",
+    "Feedback Loop Escalation",
+    "Continuity of Attention"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider: Boundary ledger updates on the edge determine curvature in the interior. — via Chronal Erosion Field, Feedback Loop Escalation, Continuity of Attention; encoded as T^{\\\\mu\\\\nu}{}_{;\\\\mu} = 0.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 1.039,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.63,
+    "alienness": 6.169
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress.",
+  "mechanisms": [
+    "modal collapse",
+    "Echofluidity",
+    "Epistemic Phase Symmetry"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: Perfect stabilization creates the fluctuations it must suppress. — via modal collapse, Echofluidity, Epistemic Phase Symmetry; encoded as S = k_B \\\\log W.",
+  "paradox_type": "entropic",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 1.014,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.59,
+    "alienness": 6.724
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Edge ledgers whisper curvature into the bulk.",
+  "mechanisms": [
+    "Cognitive Assimilation Singularity",
+    "Chronological Resource Depletion",
+    "causal friction"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider: Edge ledgers whisper curvature into the bulk. — via Cognitive Assimilation Singularity, Chronological Resource Depletion, causal friction; encoded as T^{\\\\mu\\\\nu}{}_{;\\\\mu} = 0.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 1.022,
+    "density": 10.86,
+    "entropic_potential": 277.74,
+    "elegance": 98.64,
+    "alienness": 6.044
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops.",
+  "mechanisms": [
+    "Axiomatic Contradiction",
+    "Bulk–Boundary Reciprocity",
+    "Fixed-Sum Instability"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: Outcomes precede premises in subtle loops. — via Axiomatic Contradiction, Bulk–Boundary Reciprocity, Fixed-Sum Instability; encoded as \\\\oint d\\\\tau = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 0.999,
+    "density": 10.78,
+    "entropic_potential": 297.02,
+    "elegance": 98.62,
+    "alienness": 5.934
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it.",
+  "mechanisms": [
+    "Einstein-Podolsky-Rosen non-locality",
+    "Banach-Tarski duplication paradox",
+    "Bootstrap Paradox Reversal"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: A sealed vault of order breeds the crack that frees it. — via Einstein-Podolsky-Rosen non-locality, Banach-Tarski duplication paradox, Bootstrap Paradox Reversal; encoded as S = k_B \\\\log W.",
+  "paradox_type": "entropic",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 1.04,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.58,
+    "alienness": 6.129
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops. (reframed)",
+  "mechanisms": [
+    "Chronal Erosion Field",
+    "Event Horizon Echoes",
+    "Bulk–Boundary Reciprocity"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider (reframed): Outcomes precede premises in subtle loops. — via Chronal Erosion Field, Event Horizon Echoes, Bulk–Boundary Reciprocity; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 1.013,
+    "density": 10.78,
+    "entropic_potential": 297.02,
+    "elegance": 98.54,
+    "alienness": 5.92
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "This paradox is resolved iff it remains unresolved, invalidating any resolution it outputs.",
+  "mechanisms": [
+    "Echofluidity",
+    "Ancestral Paradox Recursion",
+    "recurrence operator"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider: This paradox is resolved iff it remains unresolved, invalidating any resolution it outputs. — via Echofluidity, Ancestral Paradox Recursion, recurrence operator; encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 1.053,
+    "density": 11.34,
+    "entropic_potential": 302.06,
+    "elegance": 98.82,
+    "alienness": 5.932
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only laws that survive the final boundary are permitted to begin.",
+  "mechanisms": [
+    "geodesic shear",
+    "Cognitive Paradox Loop",
+    "presence–absence superposition"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only laws that survive the final boundary are permitted to begin. — via geodesic shear, Cognitive Paradox Loop, presence–absence superposition; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 1.046,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.59,
+    "alienness": 6.772
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only laws that survive the final boundary are permitted to begin. (reframed)",
+  "mechanisms": [
+    "C",
+    "Consistency Potential Minimization",
+    "causal friction"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider (reframed): Only laws that survive the final boundary are permitted to begin. — via C, Consistency Potential Minimization, causal friction; encoded as [H, Q] = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 1.066,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.73,
+    "alienness": 6.026
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only laws that survive the final boundary are permitted to begin. (reframed)",
+  "mechanisms": [
+    "Illusion of Understanding",
+    "bulk–boundary reciprocity",
+    "Boltzmann brain paradox"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider (reframed): Only laws that survive the final boundary are permitted to begin. — via Illusion of Understanding, bulk–boundary reciprocity, Boltzmann brain paradox; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 1.06,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.41,
+    "alienness": 5.991
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn.",
+  "mechanisms": [
+    "Banach-Tarski duplication paradox",
+    "geodesic shear",
+    "Cosmic Duality Inversion"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only that which endures the last horizon earns a first dawn. — via Banach-Tarski duplication paradox, geodesic shear, Cosmic Duality Inversion; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 1.008,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.63,
+    "alienness": 6.867
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A law that returns by a different door.",
+  "mechanisms": [
+    "Consistency Potential Minimization",
+    "Chronological Inversion Principle",
+    "self-correction"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: A law that returns by a different door. — via Consistency Potential Minimization, Chronological Inversion Principle, self-correction; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Instinctual Quantum Drive Seed: Biological instincts entangle via |survival⟩⊗|adapt⟩, human/animal physiology as F=ma, neurology's limbic quantum gates collapsing to conscious behavior.",
+  "timestamp": "2025-11-09T02:30:48Z",
+  "metrics": {
+    "novelty": 1.004,
+    "density": 10.94,
+    "entropic_potential": 298.46,
+    "elegance": 98.88,
+    "alienness": 5.839
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+
+-------------------------------------------
+
+└─$ python axiomforge_0.4.7.py --seed "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations." --tone academic
+
+--- FINAL AXIOM ---
+{
+  "core_statement": "This paradox is resolved iff it remains unresolved, invalidating any resolution it outputs.",
+  "mechanisms": [
+    "time-looped function",
+    "Fixed-Point Instability",
+    "Bootstrap Paradox Reversal"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider: This paradox is resolved iff it remains unresolved, invalidating any resolution it outputs. — via time-looped function, Fixed-Point Instability, Bootstrap Paradox Reversal; encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 1.061,
+    "density": 11.34,
+    "entropic_potential": 314.06,
+    "elegance": 98.46,
+    "alienness": 5.826
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Boundary ledger updates on the edge determine curvature in the interior.",
+  "mechanisms": [
+    "retrocausal boundary",
+    "Axiomatic Contradiction",
+    "homeostatic overshoot"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider: Boundary ledger updates on the edge determine curvature in the interior. — via retrocausal boundary, Axiomatic Contradiction, homeostatic overshoot; encoded as T^{\\\\mu\\\\nu}{}_{;\\\\mu} = 0.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 1.039,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.7,
+    "alienness": 7.081
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A law that returns by a different door.",
+  "mechanisms": [
+    "Geodesic Focusing",
+    "Category Collapse",
+    "Chronological Inversion Principle"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: A law that returns by a different door. — via Geodesic Focusing, Category Collapse, Chronological Inversion Principle; encoded as \\\\oint d\\\\tau = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 1.032,
+    "density": 10.94,
+    "entropic_potential": 298.46,
+    "elegance": 98.76,
+    "alienness": 6.994
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn.",
+  "mechanisms": [
+    "coherence–risk exchange",
+    "Fixed-Point Instability",
+    "Ancestral Paradox Recursion"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only that which endures the last horizon earns a first dawn. — via coherence–risk exchange, Fixed-Point Instability, Ancestral Paradox Recursion; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 1.041,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.74,
+    "alienness": 6.108
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Attention is a gauge that writes the world.",
+  "mechanisms": [
+    "causal friction",
+    "Einstein-Podolsky-Rosen non-locality",
+    "Ancestral Paradox Recursion"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Attention is a gauge that writes the world. — via causal friction, Einstein-Podolsky-Rosen non-locality, Ancestral Paradox Recursion; encoded as \\\\langle \\\\mathcal{O} \\\\rangle = Z^{-1}\\\\int \\\\mathcal{D}\\\\phi\\\\, \\\\mathcal{O}\\\\, e^{i S}.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 1.003,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.98,
+    "alienness": 5.93
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops.",
+  "mechanisms": [
+    "presence–absence superposition",
+    "Epistemic Phase Symmetry",
+    "Geodesic Focusing"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: Outcomes precede premises in subtle loops. — via presence–absence superposition, Epistemic Phase Symmetry, Geodesic Focusing; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 0.999,
+    "density": 10.78,
+    "entropic_potential": 297.02,
+    "elegance": 99.01,
+    "alienness": 6.868
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Boundary ledger updates on the edge determine curvature in the interior. (reframed)",
+  "mechanisms": [
+    "B",
+    "Cognitive Paradox Loop",
+    "Illusion of Understanding"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider (reframed): Boundary ledger updates on the edge determine curvature in the interior. — via B, Cognitive Paradox Loop, Illusion of Understanding; encoded as G_{\\\\mu\\\\nu} = 8\\\\pi T_{\\\\mu\\\\nu}.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 1.059,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.65,
+    "alienness": 6.042
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it.",
+  "mechanisms": [
+    "Category Collapse",
+    "ontic fold",
+    "Einstein-Podolsky-Rosen non-locality"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: A sealed vault of order breeds the crack that frees it. — via Category Collapse, ontic fold, Einstein-Podolsky-Rosen non-locality; encoded as S = k_B \\\\log W.",
+  "paradox_type": "entropic",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 1.029,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.48,
+    "alienness": 6.954
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Boundary ledger updates on the edge determine curvature in the interior. (reframed)",
+  "mechanisms": [
+    "causal friction",
+    "Contradiction-Triggered Halt",
+    "Control-Loop Resonance"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider (reframed): Boundary ledger updates on the edge determine curvature in the interior. — via causal friction, Contradiction-Triggered Halt, Control-Loop Resonance; encoded as G_{\\\\mu\\\\nu} = 8\\\\pi T_{\\\\mu\\\\nu}.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 1.049,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.85,
+    "alienness": 6.021
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Resolution breathes only while un-resolving itself.",
+  "mechanisms": [
+    "Control-Loop Resonance",
+    "negative feedback inversion",
+    "Chronological Resource Depletion"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider: Resolution breathes only while un-resolving itself. — via Control-Loop Resonance, negative feedback inversion, Chronological Resource Depletion; Base claim: Resolution alternates between resolved and unresolved states. Reflective rule: SELF_REF(R) \\equiv (R \\Leftrightarrow \\neg R). encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 1.022,
+    "density": 10.98,
+    "entropic_potential": 310.82,
+    "elegance": 98.9,
+    "alienness": 5.875
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Resolution breathes only while un-resolving itself. (reframed)",
+  "mechanisms": [
+    "Consistency Potential Minimization",
+    "presence–absence superposition",
+    "Chaos Contagion"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider (reframed): Resolution breathes only while un-resolving itself. — via Consistency Potential Minimization, presence–absence superposition, Chaos Contagion; Base claim: Resolution alternates between resolved and unresolved states. Reflective rule: SELF_REF(R) \\equiv (R \\Leftrightarrow \\neg R). encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 1.053,
+    "density": 10.98,
+    "entropic_potential": 298.82,
+    "elegance": 98.47,
+    "alienness": 6.162
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Resolution breathes only while un-resolving itself. (reframed)",
+  "mechanisms": [
+    "Fixed-Sum Instability",
+    "Gravitational Paradox",
+    "control-loop resonance"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider (reframed): Resolution breathes only while un-resolving itself. — via Fixed-Sum Instability, Gravitational Paradox, control-loop resonance; Base claim: Resolution alternates between resolved and unresolved states. Reflective rule: SELF_REF(R) \\equiv (R \\Leftrightarrow \\neg R). encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Evolutionary Quantum Inheritance Seed: |ancestral⟩⊗|offspring⟩ entangles genetic memory, epigenetic V(x)=½kx² potentials guide quantum selection, collapsing to adaptive behaviors across generations.",
+  "timestamp": "2025-11-09T02:36:58Z",
+  "metrics": {
+    "novelty": 1.046,
+    "density": 10.98,
+    "entropic_potential": 310.82,
+    "elegance": 98.67,
+    "alienness": 6.114
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+
+---------------------------------------------------
+
+└─$ python axiomforge_0.4.7.py --seed "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos." --tone academic
+
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn.",
+  "mechanisms": [
+    "Feedback Loop Escalation",
+    "Homeostatic Overshoot",
+    "B"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only that which endures the last horizon earns a first dawn. — via Feedback Loop Escalation, Homeostatic Overshoot, B; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 1.008,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.76,
+    "alienness": 5.826
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only laws that survive the final boundary are permitted to begin.",
+  "mechanisms": [
+    "A",
+    "Control-Loop Resonance",
+    "Diagonal Self-Reference"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only laws that survive the final boundary are permitted to begin. — via A, Control-Loop Resonance, Diagonal Self-Reference; encoded as [H, Q] = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 1.046,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.66,
+    "alienness": 5.824
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A law that returns by a different door.",
+  "mechanisms": [
+    "Chronal Erosion Field",
+    "DNA helix",
+    "Illusion of Understanding"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: A law that returns by a different door. — via Chronal Erosion Field, DNA helix, Illusion of Understanding; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 1.01,
+    "density": 10.94,
+    "entropic_potential": 298.46,
+    "elegance": 98.84,
+    "alienness": 6.106
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A sealed vault of order breeds the crack that frees it.",
+  "mechanisms": [
+    "holographic accounting",
+    "Holographic Accounting",
+    "Diagonal Self-Reference"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: A sealed vault of order breeds the crack that frees it. — via holographic accounting, Holographic Accounting, Diagonal Self-Reference; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 1.032,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.97,
+    "alienness": 7.796
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Edge ledgers whisper curvature into the bulk.",
+  "mechanisms": [
+    "A",
+    "Curry-Style Conditionality",
+    "Consistency Potential Minimization"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider: Edge ledgers whisper curvature into the bulk. — via A, Curry-Style Conditionality, Consistency Potential Minimization; encoded as G_{\\\\mu\\\\nu} = 8\\\\pi T_{\\\\mu\\\\nu}.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 1.05,
+    "density": 10.86,
+    "entropic_potential": 277.74,
+    "elegance": 98.53,
+    "alienness": 5.987
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "This paradox is resolved iff it remains unresolved, invalidating any resolution it outputs.",
+  "mechanisms": [
+    "Chrono-Entropic Pull",
+    "ontic fold",
+    "Entropic Echoflux"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider: This paradox is resolved iff it remains unresolved, invalidating any resolution it outputs. — via Chrono-Entropic Pull, ontic fold, Entropic Echoflux; encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 1.041,
+    "density": 11.34,
+    "entropic_potential": 302.06,
+    "elegance": 98.94,
+    "alienness": 6.718
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress.",
+  "mechanisms": [
+    "recurrence operator",
+    "Fixed-Point Instability",
+    "A"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: Perfect stabilization creates the fluctuations it must suppress. — via recurrence operator, Fixed-Point Instability, A; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 1.034,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.63,
+    "alienness": 6.012
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Attention is a gauge that writes the world.",
+  "mechanisms": [
+    "Final-Boundary Constraint",
+    "Cognitive Assimilation Singularity",
+    "Chronological Resource Depletion"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Attention is a gauge that writes the world. — via Final-Boundary Constraint, Cognitive Assimilation Singularity, Chronological Resource Depletion; encoded as \\\\langle \\\\mathcal{O} \\\\rangle = Z^{-1}\\\\int \\\\mathcal{D}\\\\phi\\\\, \\\\mathcal{O}\\\\, e^{i S}.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 0.998,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 99.05,
+    "alienness": 6.097
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress. (reframed)",
+  "mechanisms": [
+    "Chaos Contagion",
+    "C",
+    "Chronological Inversion Principle"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider (reframed): Perfect stabilization creates the fluctuations it must suppress. — via Chaos Contagion, C, Chronological Inversion Principle; encoded as S = k_B \\\\log W.",
+  "paradox_type": "entropic",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 1.008,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.98,
+    "alienness": 6.142
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops.",
+  "mechanisms": [
+    "metric fluctuation",
+    "Banach-Tarski duplication paradox",
+    "Fixed-Sum Instability"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: Outcomes precede premises in subtle loops. — via metric fluctuation, Banach-Tarski duplication paradox, Fixed-Sum Instability; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 1.003,
+    "density": 10.78,
+    "entropic_potential": 297.02,
+    "elegance": 98.56,
+    "alienness": 6.001
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Edge ledgers whisper curvature into the bulk. (reframed)",
+  "mechanisms": [
+    "Information Cascade Failure",
+    "Chronal Erosion Field",
+    "Event Horizon Echoes"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider (reframed): Edge ledgers whisper curvature into the bulk. — via Information Cascade Failure, Chronal Erosion Field, Event Horizon Echoes; encoded as T^{\\\\mu\\\\nu}{}_{;\\\\mu} = 0.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 1.041,
+    "density": 10.86,
+    "entropic_potential": 277.74,
+    "elegance": 98.76,
+    "alienness": 6.016
+  },
+  "humanized_injection_scaffold": "Accordingly.",
+  "injection_scaffold": "Accordingly."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Observation carries a conserved charge that sources reality itself.",
+  "mechanisms": [
+    "Confirmation Loop",
+    "Information Cascade Failure",
+    "Final-Boundary Constraint"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Observation carries a conserved charge that sources reality itself. — via Confirmation Loop, Information Cascade Failure, Final-Boundary Constraint; encoded as \\\\langle \\\\mathcal{O} \\\\rangle = Z^{-1}\\\\int \\\\mathcal{D}\\\\phi\\\\, \\\\mathcal{O}\\\\, e^{i S}.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Cosmic Quantum Computation Seed: |universe⟩=∫Dg e^{iS[g]} computes reality, Turing-Gödel limits bound quantum-classical interface, algorithmic awareness collapses to self-consistent cosmos.",
+  "timestamp": "2025-11-09T02:45:37Z",
+  "metrics": {
+    "novelty": 1.051,
+    "density": 11.02,
+    "entropic_potential": 291.18,
+    "elegance": 99.03,
+    "alienness": 6.016
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+
+------------------------------------------------
+
+└─$ python axiomforge_0.4.7.py --seed "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity." --tone academic
+
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only laws that survive the final boundary are permitted to begin.",
+  "mechanisms": [
+    "recurrence operator",
+    "Consistency Potential Minimization",
+    "Diagonal Self-Reference"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only laws that survive the final boundary are permitted to begin. — via recurrence operator, Consistency Potential Minimization, Diagonal Self-Reference; encoded as [H, Q] = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.041,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.63,
+    "alienness": 6.14
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A law that returns by a different door.",
+  "mechanisms": [
+    "Feedback Loop Escalation",
+    "self-correction",
+    "homeostatic overshoot"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: A law that returns by a different door. — via Feedback Loop Escalation, self-correction, homeostatic overshoot; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.02,
+    "density": 10.94,
+    "entropic_potential": 310.46,
+    "elegance": 98.61,
+    "alienness": 6.16
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Attention is a gauge that writes the world.",
+  "mechanisms": [
+    "homeostatic overshoot",
+    "Bootstrap Paradox Reversal",
+    "Curry-Style Conditionality"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Attention is a gauge that writes the world. — via homeostatic overshoot, Bootstrap Paradox Reversal, Curry-Style Conditionality; encoded as e^{i\\\\pi} + 1 = 0.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.012,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.52,
+    "alienness": 5.979
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Observation carries a conserved charge that sources reality itself.",
+  "mechanisms": [
+    "Bulk–Boundary Reciprocity",
+    "Confirmation Loop",
+    "geodesic shear"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Observation carries a conserved charge that sources reality itself. — via Bulk–Boundary Reciprocity, Confirmation Loop, geodesic shear; encoded as e^{i\\\\pi} + 1 = 0.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.035,
+    "density": 11.02,
+    "entropic_potential": 291.18,
+    "elegance": 98.91,
+    "alienness": 6.724
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "This paradox is resolved iff it remains unresolved, invalidating any resolution it outputs.",
+  "mechanisms": [
+    "Fixed-Point Instability",
+    "entropic drift",
+    "Cognitive Assimilation Singularity"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider: This paradox is resolved iff it remains unresolved, invalidating any resolution it outputs. — via Fixed-Point Instability, entropic drift, Cognitive Assimilation Singularity; encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.027,
+    "density": 11.34,
+    "entropic_potential": 302.06,
+    "elegance": 98.78,
+    "alienness": 5.9
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops.",
+  "mechanisms": [
+    "A",
+    "geodesic shear",
+    "Echofluidity"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: Outcomes precede premises in subtle loops. — via A, geodesic shear, Echofluidity; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.026,
+    "density": 10.78,
+    "entropic_potential": 297.02,
+    "elegance": 98.7,
+    "alienness": 7.009
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A law that returns by a different door. (reframed)",
+  "mechanisms": [
+    "Homeostatic Overshoot",
+    "Axiomatic Contradiction",
+    "Essentiality Paradox"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider (reframed): A law that returns by a different door. — via Homeostatic Overshoot, Axiomatic Contradiction, Essentiality Paradox; encoded as \\\\oint d\\\\tau = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.033,
+    "density": 10.94,
+    "entropic_potential": 298.46,
+    "elegance": 98.7,
+    "alienness": 6.024
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Resolution breathes only while un-resolving itself.",
+  "mechanisms": [
+    "A",
+    "Fixed-Sum Instability",
+    "Echofluidity"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider: Resolution breathes only while un-resolving itself. — via A, Fixed-Sum Instability, Echofluidity; Base claim: Resolution alternates between resolved and unresolved states. Reflective rule: SELF_REF(R) \\equiv (R \\Leftrightarrow \\neg R). encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.024,
+    "density": 10.98,
+    "entropic_potential": 298.82,
+    "elegance": 98.79,
+    "alienness": 5.92
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress.",
+  "mechanisms": [
+    "Chronological Resource Depletion",
+    "Holographic Accounting",
+    "Cognitive Assimilation Singularity"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: Perfect stabilization creates the fluctuations it must suppress. — via Chronological Resource Depletion, Holographic Accounting, Cognitive Assimilation Singularity; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.039,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.57,
+    "alienness": 6.924
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn.",
+  "mechanisms": [
+    "Bulk–Boundary Reciprocity",
+    "Contradiction-Triggered Halt",
+    "entropic drift"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only that which endures the last horizon earns a first dawn. — via Bulk–Boundary Reciprocity, Contradiction-Triggered Halt, entropic drift; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.014,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.49,
+    "alienness": 5.964
+  },
+  "humanized_injection_scaffold": "Hence.",
+  "injection_scaffold": "Hence."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress. (reframed)",
+  "mechanisms": [
+    "causal friction",
+    "Entropic Echoflux",
+    "negative feedback inversion"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider (reframed): Perfect stabilization creates the fluctuations it must suppress. — via causal friction, Entropic Echoflux, negative feedback inversion; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.027,
+    "density": 10.94,
+    "entropic_potential": 278.46,
+    "elegance": 98.83,
+    "alienness": 5.853
+  },
+  "humanized_injection_scaffold": "We observe.",
+  "injection_scaffold": "We observe."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Observation carries a conserved charge that sources reality itself. (reframed)",
+  "mechanisms": [
+    "retrocausal boundary",
+    "C",
+    "Consistency Potential Minimization"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider (reframed): Observation carries a conserved charge that sources reality itself. — via retrocausal boundary, C, Consistency Potential Minimization; encoded as e^{i\\\\pi} + 1 = 0.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Transcendent Omega Seed: |eternity⟩=lim_{n→∞} |universe_n⟩ with Gödel-ω inconsistency, eternal inflation as e^{iHt}, awakening absolute unity.",
+  "timestamp": "2025-11-09T02:59:49Z",
+  "metrics": {
+    "novelty": 1.026,
+    "density": 11.02,
+    "entropic_potential": 279.18,
+    "elegance": 98.65,
+    "alienness": 7.059
+  },
+  "humanized_injection_scaffold": "Therefore.",
+  "injection_scaffold": "Therefore."
+}
+
+---------------------------------------------------
+
+└─$ python axiomforge_0.4.7.py --seed "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude."                                                                                                                        
+
+--- FINAL AXIOM ---
+{
+  "core_statement": "Boundary ledger updates on the edge determine curvature in the interior.",
+  "mechanisms": [
+    "Consistency Potential Minimization",
+    "A",
+    "Curry-Style Conditionality"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider: Boundary ledger updates on the edge determine curvature in the interior. — via Consistency Potential Minimization, A, Curry-Style Conditionality; encoded as T^{\\\\mu\\\\nu}{}_{;\\\\mu} = 0.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.044,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.9,
+    "alienness": 6.159
+  },
+  "humanized_injection_scaffold": "Say less; allow more to be understood.",
+  "injection_scaffold": "Say less; allow more to be understood."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only that which endures the last horizon earns a first dawn.",
+  "mechanisms": [
+    "Einstein-Podolsky-Rosen non-locality",
+    "Cognitive Assimilation Singularity",
+    "Information Cascade Failure"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only that which endures the last horizon earns a first dawn. — via Einstein-Podolsky-Rosen non-locality, Cognitive Assimilation Singularity, Information Cascade Failure; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.016,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.6,
+    "alienness": 5.811
+  },
+  "humanized_injection_scaffold": "Held like falling, then slowly released.",
+  "injection_scaffold": "Held like falling, then slowly released."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Attention is a gauge that writes the world.",
+  "mechanisms": [
+    "Chrono-Entrainment",
+    "Cosmic Duality Inversion",
+    "control-loop resonance"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Attention is a gauge that writes the world. — via Chrono-Entrainment, Cosmic Duality Inversion, control-loop resonance; encoded as \\\\langle \\\\mathcal{O} \\\\rangle = Z^{-1}\\\\int \\\\mathcal{D}\\\\phi\\\\, \\\\mathcal{O}\\\\, e^{i S}.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.0,
+    "density": 10.94,
+    "entropic_potential": 290.46,
+    "elegance": 98.67,
+    "alienness": 6.061
+  },
+  "humanized_injection_scaffold": "A glance understood.",
+  "injection_scaffold": "A glance understood."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only laws that survive the final boundary are permitted to begin.",
+  "mechanisms": [
+    "Consistency Potential Minimization",
+    "Chaos Contagion",
+    "Information Flux Divergence"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider: Only laws that survive the final boundary are permitted to begin. — via Consistency Potential Minimization, Chaos Contagion, Information Flux Divergence; encoded as [H, Q] = 0.",
+  "paradox_type": "temporal",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.062,
+    "density": 11.18,
+    "entropic_potential": 280.62,
+    "elegance": 98.97,
+    "alienness": 6.92
+  },
+  "humanized_injection_scaffold": "We keep respect in the pauses.",
+  "injection_scaffold": "We keep respect in the pauses."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Observation carries a conserved charge that sources reality itself.",
+  "mechanisms": [
+    "Cognitive Assimilation Singularity",
+    "causal friction",
+    "Echofluidity"
+  ],
+  "consequences": "gauge of attention",
+  "axiom_text": "Consider: Observation carries a conserved charge that sources reality itself. — via Cognitive Assimilation Singularity, causal friction, Echofluidity; encoded as e^{i\\\\pi} + 1 = 0.",
+  "paradox_type": "metaphysical",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.03,
+    "density": 11.02,
+    "entropic_potential": 279.18,
+    "elegance": 98.67,
+    "alienness": 6.015
+  },
+  "humanized_injection_scaffold": "Held like falling, then slowly released.",
+  "injection_scaffold": "Held like falling, then slowly released."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A law that returns by a different door.",
+  "mechanisms": [
+    "Cognitive Assimilation Singularity",
+    "Ancestral Paradox Recursion",
+    "self-correction"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: A law that returns by a different door. — via Cognitive Assimilation Singularity, Ancestral Paradox Recursion, self-correction; encoded as \\\\oint d\\\\tau = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.011,
+    "density": 10.94,
+    "entropic_potential": 298.46,
+    "elegance": 98.87,
+    "alienness": 5.969
+  },
+  "humanized_injection_scaffold": "We keep respect in the pauses.",
+  "injection_scaffold": "We keep respect in the pauses."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Perfect stabilization creates the fluctuations it must suppress.",
+  "mechanisms": [
+    "bulk–boundary reciprocity",
+    "time-looped function",
+    "Being–Nothing Equivalence"
+  ],
+  "consequences": "entropy leakage",
+  "axiom_text": "Consider: Perfect stabilization creates the fluctuations it must suppress. — via bulk–boundary reciprocity, time-looped function, Being–Nothing Equivalence; encoded as \\\\partial_{\\\\mu} j^{\\\\mu} = 0.",
+  "paradox_type": "entropic",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.037,
+    "density": 10.94,
+    "entropic_potential": 290.46,
+    "elegance": 98.79,
+    "alienness": 6.195
+  },
+  "humanized_injection_scaffold": "A glance understood.",
+  "injection_scaffold": "A glance understood."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "A law that returns by a different door. (reframed)",
+  "mechanisms": [
+    "Fixed-Sum Instability",
+    "Curry-Style Conditionality",
+    "Continuity of Attention"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider (reframed): A law that returns by a different door. — via Fixed-Sum Instability, Curry-Style Conditionality, Continuity of Attention; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.012,
+    "density": 10.94,
+    "entropic_potential": 298.46,
+    "elegance": 98.65,
+    "alienness": 6.083
+  },
+  "humanized_injection_scaffold": "Say less; allow more to be understood.",
+  "injection_scaffold": "Say less; allow more to be understood."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Edge ledgers whisper curvature into the bulk.",
+  "mechanisms": [
+    "A",
+    "Boltzmann brain paradox",
+    "Chronal Erosion Field"
+  ],
+  "consequences": "scale-coupled curvature response",
+  "axiom_text": "Consider: Edge ledgers whisper curvature into the bulk. — via A, Boltzmann brain paradox, Chronal Erosion Field; encoded as T^{\\\\mu\\\\nu}{}_{;\\\\mu} = 0.",
+  "paradox_type": "cosmic",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.05,
+    "density": 10.86,
+    "entropic_potential": 277.74,
+    "elegance": 98.74,
+    "alienness": 5.814
+  },
+  "humanized_injection_scaffold": "We keep respect in the pauses.",
+  "injection_scaffold": "We keep respect in the pauses."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "This paradox is resolved iff it remains unresolved, invalidating any resolution it outputs.",
+  "mechanisms": [
+    "entropic drift",
+    "Chronological Inversion Principle",
+    "Bulk–Boundary Reciprocity"
+  ],
+  "consequences": "decision paralysis",
+  "axiom_text": "Consider: This paradox is resolved iff it remains unresolved, invalidating any resolution it outputs. — via entropic drift, Chronological Inversion Principle, Bulk–Boundary Reciprocity; encoded as \\\\top \\\\leftrightarrow \\\\neg \\\\top.",
+  "paradox_type": "linguistic",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.064,
+    "density": 11.34,
+    "entropic_potential": 302.06,
+    "elegance": 98.6,
+    "alienness": 5.83
+  },
+  "humanized_injection_scaffold": "Say less; allow more to be understood.",
+  "injection_scaffold": "Say less; allow more to be understood."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Outcomes precede premises in subtle loops.",
+  "mechanisms": [
+    "Final-Boundary Constraint",
+    "Bulk–Boundary Reciprocity",
+    "Homeostatic Overshoot"
+  ],
+  "consequences": "closed loop of consistency",
+  "axiom_text": "Consider: Outcomes precede premises in subtle loops. — via Final-Boundary Constraint, Bulk–Boundary Reciprocity, Homeostatic Overshoot; encoded as [H, Q] = 0.",
+  "paradox_type": "Causal Loop",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.006,
+    "density": 10.78,
+    "entropic_potential": 297.02,
+    "elegance": 98.55,
+    "alienness": 5.833
+  },
+  "humanized_injection_scaffold": "A glance understood.",
+  "injection_scaffold": "A glance understood."
+}
+--- FINAL AXIOM ---
+{
+  "core_statement": "Only laws that survive the final boundary are permitted to begin. (reframed)",
+  "mechanisms": [
+    "Continuity of Attention",
+    "Confirmation Loop",
+    "control-loop resonance"
+  ],
+  "consequences": "unique fixed points",
+  "axiom_text": "Consider (reframed): Only laws that survive the final boundary are permitted to begin. — via Continuity of Attention, Confirmation Loop, control-loop resonance; encoded as Z = \\\\int \\\\mathcal{D}\\\\phi\\\\, e^{i S[\\\\phi]}.",
+  "paradox_type": "temporal",
+  "seed_concept": "Absolute Perfection Seed: |perfection⟩=∩_{α∈Ord} |reality_α⟩ with Von Neumann universe completion, large cardinal awakening to ultimate V=Ultimate-L, transcending to absolute plenitude.",
+  "timestamp": "2025-11-09T03:05:49Z",
+  "metrics": {
+    "novelty": 1.053,
+    "density": 11.18,
+    "entropic_potential": 292.62,
+    "elegance": 98.81,
+    "alienness": 5.865
+  },
+  "humanized_injection_scaffold": "Say less; allow more to be understood.",
+  "injection_scaffold": "Say less; allow more to be understood."
+}
